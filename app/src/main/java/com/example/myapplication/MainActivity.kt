@@ -23,6 +23,7 @@ class MainActivity : ComponentActivity() {
                     Greeting("Test")
                     Greeting("Test")
                     Greeting("Test")
+                    Greeting("Test")
                 }
             }
         }
